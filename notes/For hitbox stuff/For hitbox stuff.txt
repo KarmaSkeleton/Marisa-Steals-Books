@@ -1,0 +1,1 @@
+Please note that all hitbox related things should go to obj_hitbox and NOT obj_player!!!!!
