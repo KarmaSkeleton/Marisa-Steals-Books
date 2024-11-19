@@ -1,16 +1,13 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4A5A957C
+/// @DnDComment : Variable for Movement Speed
+/// @DnDInput : 2
 /// @DnDArgument : "expr" "6"
+/// @DnDArgument : "expr_1" "player_speed_value"
 /// @DnDArgument : "var" "player_speed_value"
+/// @DnDArgument : "var_1" "player_speed"
 player_speed_value = 6;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 7F932F8F
-/// @DnDComment : Variable for movement speed
-/// @DnDArgument : "expr" "player_speed_value"
-/// @DnDArgument : "var" "player_speed"
 player_speed = player_speed_value;
 
 /// @DnDAction : YoYo Games.Common.Variable
